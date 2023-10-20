@@ -1,7 +1,6 @@
 # Homer.lang
 
-"Existem três jeitos de fazer as coisas: o jeito certo, o jeito errado, e o meu jeito, que é igual ao jeito errado, só que mais rápido "
-- Simpson, homer.
+"Existem três jeitos de fazer as coisas: o jeito certo, o jeito errado, e o meu jeito, que é igual ao jeito errado, só que mais rápido " - Simpson, homer.
 
 Homer.lang é a linguagem de programação inspirada na incrível sabedoria do Homer Simpson e em seus famosos "D'ohs"!
 
