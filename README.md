@@ -43,4 +43,5 @@ donuts(caixa1 , caixa2 , caixa3)
 - Dirija-se à taverna do Moe.
 - Peça uma Duff programada.
 - Receba um pendrive secreto com o Compilador Homer.lang.
-- Ou então baixe o repositório no github se estiver com preguiça de sair de casa e crie seu programa com a extensão .hm
+- Ou então baixe o repositório no github se estiver com preguiça de sair de casa e crie seu programa com a extensão .hm.
+- Para rodar o código, será gerado um código em JavaScript, rode ele.
