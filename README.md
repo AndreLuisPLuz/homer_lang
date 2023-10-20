@@ -6,9 +6,9 @@ Homer.lang é a linguagem de programação inspirada na incrível sabedoria do H
 
 ## Características: 🍩
 
-- Sintaxe loucamente simples: nossa sintaxe é tão simples que até mesmo Homer Simpson pode entender. Esqueça o ponto e vírgula e abrace a confusão. 
+Sintaxe loucamente simples: nossa sintaxe é tão simples que até mesmo Homer Simpson pode entender. Esqueça o ponto e vírgula e abrace a confusão. 
 
-- Funções: ao invés das funções chatas e sem graça, a Homer.lang possui as funções mais hilariantes do mundo virtual da inter web.
+Funções: ao invés das funções chatas e sem graça, a Homer.lang possui as funções mais hilariantes do mundo virtual da inter web.
 
  • Printf?? Pffffff, aqui nós utilizamos:  
    dooh(Mmm... Rosquinhas!).
