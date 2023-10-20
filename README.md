@@ -10,24 +10,33 @@ Sintaxe loucamente simples: nossa sintaxe é tão simples que até mesmo Homer S
 
 Funções: ao invés das funções chatas e sem graça, a Homer.lang possui as funções mais hilariantes do mundo virtual da inter web.
 
- • Printf?? Pffffff, aqui nós utilizamos:  
-   dooh(Mmm... Rosquinhas!).
+- Printf?? Pffffff, aqui nós utilizamos:
 
- • Assim como o Homer você também reprovou a segunda série e não sabe fazer a soma de números inteiros? Sem problemas,  
-   fazemos isso pra você,  só colocar o numero de donuts de cada caixa, dessa maneira: 
-   donuts(caixa1 , caixa2).
+dooh(Mmm... Rosquinhas!).
 
- • If... isso é coisa que só a Lisa saberia, aqui não somos espertos como ela, mas bebemos muita cerveja, por isso usamos: 
-   duff(ainda tem cerveja? )
-   {
-   dooh(Beba todas!)
-   }
+- Assim como o Homer você também reprovou a segunda série e não sabe fazer a soma de números inteiros? Sem problemas, fazemos isso pra você,  só colocar o numero de donuts de cada caixa, dessa maneira:
 
- • Declarações: pra facilitar ainda mais a vida de quem não sabe nem fazer uma variável, nós fazemos assim:
-   episode(nome_variável)
-   {
-   donuts(caixa1 , caixa2 , caixa3)
-   }
+donuts(caixa1 , caixa2).
+
+- If... isso é coisa que só a Lisa saberia, aqui não somos espertos como ela, mas bebemos muita cerveja, por isso usamos: 
+
+duff(ainda tem cerveja?)
+
+{
+
+dooh(Beba todas!)
+
+}
+
+- Declarações: pra facilitar ainda mais a vida de quem não sabe nem fazer uma variável, nós fazemos assim:
+
+episode(nome_variável)
+
+{
+
+donuts(caixa1 , caixa2 , caixa3)
+
+}
 
 ## Instalação: 🍺
 
